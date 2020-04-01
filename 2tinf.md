@@ -7,6 +7,13 @@ navigation: 7
 # Segundo de Tecnologías Informáticas
 
 
+## ADDA
+
+Se volverán a grabar las clases pero se insta a los alumnos a que asistan a las clases teóricas.
+
+Se aplaza la entrega de la práctica individual 3B al 21 de abril.
+
+Además la clase práctica de la semana del 13 de abril al 17 del mismo mes se utilizará para explicar la práctica PI4A ya que el control no se podrá realizar, esta clase será grabada pero se insta a los alumnos a asistir.
 
 ## ISSI 2
 
