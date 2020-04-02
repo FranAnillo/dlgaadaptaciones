@@ -90,6 +90,8 @@ Esta estrategia tiene un carácter temporal y es susceptible de ser modificada e
 
 Así pues, el Viernes 20 de marzo a las 12.40 (a las 12.25 se abrirá la sesión) tendremos nuestra primera clase no presencial. Os pedimos un poco de paciencia al principio, pues vamos a usar una herramienta nueva, que nunca hemos usado antes. Creemos que puede funcionar bastante bien, aunque tendremos que ir perfeccionando su uso. 
 
+Hoy día 2 de abril de 2020 nos comunican que, tras la confirmacioón de que no se retomarán las clases de manera presencial, el parcial fijado para el 17 de abril del presente año se realizará de manera on-line. No se sabe cuál será la manera con la cual resolváis el examen pero se está evaluando la posibilidad de subir ejercicios hechos a mano, similar a los ejercicios que se han propuesto ya en la asignatura. Por tanto se os aconseja subir ejercicios resueltos para prácticar de cara al parcial, el plazo de entrega será hasta hoy a las 9 de la noche.
+
 ## PSG2
 
 Como sabéis, la suspensión de la docencia presencial en la Universidad de Sevilla, de acuerdo con las instrucciones remitidas por la Junta de Andalucía y el Rector de la Universidad de Sevilla, conlleva necesariamente una adaptación de la docencia y evaluación en nuestra asignatura. Las medidas que vamos a tomar buscan minimizar el impacto de esta situación sobrevenida y facilitar en la medida de lo posible la impartición y evaluación del contenido planificado. En concreto, adoptaremos los siguientes cambios:
