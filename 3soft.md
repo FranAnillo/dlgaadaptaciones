@@ -114,4 +114,4 @@ En cuanto al Sprint L3, estando previsto su comienzo el miércoles 18 de marzo, 
 
 En nombre del equipo docente de PSG2, os pedimos disculpas y comprensión por la situación creada por la pandemia que nos afecta, esperando que con el esfuerzo de todos podamos continuar el curso con las mínimas inconveniencias. Si tenéis alguna duda sobre cualquier punto, podéis dirigiros a vuestros tutores correspondientes o al coordinador de la asignatura (josemgarcia@us.es).
 
-### Última actualización: 18/03/20 19:30
+### Última actualización: 02/04/20 14:01
